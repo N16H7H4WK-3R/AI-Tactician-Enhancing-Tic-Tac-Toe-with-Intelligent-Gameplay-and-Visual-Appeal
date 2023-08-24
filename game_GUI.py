@@ -1,3 +1,11 @@
+'''
+Copyright @N16H7H4WK-3R
+Dated : 17 May 2023
+MIT Licensed
+
+'''
+
+
 from tkinter import *
 from tkinter import messagebox
 import random
